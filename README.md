@@ -1,3 +1,2 @@
 # first-repo
-My first repo
 This is a repo created, during a class on Cubos Academy, on this class we learned how to create a repo and basic git commands via terminal ex: git commit, git status, git push...
